@@ -25,7 +25,7 @@ current US State COVID19 data.
 
 The Shiny application can be found:  https://patb6.shinyapps.io/ddp-w4-shiny1_sf/  
 The Github repository with [code link app.R]( https://github.com/patb6/DDP-W4-Shiny_App/tree/gh-pages/DDP-W4-Shiny1_SF)  
-This presentation is at:  https://rpubs.com/patb6/604651  
+This presentation is at: [git hub]( https://patb6.github.io/DDP-W4-Shiny_App/DDP-W4-Pitch-rpubs.html#/)
 
 At the start of the session the application reads the current JSON file from 
 the COVID tracking project
